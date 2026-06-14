@@ -15,3 +15,5 @@ it was to do this with Python & Pandas compared to SQL, some of the findings, li
 films really stuck out and were a lot quicker to see in Python.  Then again when I was looking at the
 data in Python I already knew what I was going to find, so that makes a difference as well.  I'm attaching
 both files here.
+
+Database: **[DVDRental sample database](https://neon.com/postgresql/getting-started/sample-database)**
